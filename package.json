@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "heroku": "^7.60.2",
+    "mongoose": "^6.4.5"
+  },
+  "name": "to-do-to-do",
+  "version": "1.0.0",
+  "description": "This is a To-D0 list",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KJD",
+  "license": "ISC",
+  "engines": {
+    "node": "16.16.0"
+  }
+}
